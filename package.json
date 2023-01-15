@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pawowczar/Gir2023/issues"
   },
-  "homepage": "https://github.com/pawowczar/Gir2023#readme"
+  "homepage": "https://github.com/pawowczar/Gir2023#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
 }
